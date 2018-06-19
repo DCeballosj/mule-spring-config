@@ -1,4 +1,4 @@
-package com.concardis.config.configserver;
+package com.nterra.config.configserver;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

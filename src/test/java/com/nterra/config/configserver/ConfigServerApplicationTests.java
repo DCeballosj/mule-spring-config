@@ -1,4 +1,4 @@
-package com.concardis.config.configserver;
+package com.nterra.config.configserver;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
